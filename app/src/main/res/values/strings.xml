@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="action_login">Login</string>
+    <string name="action_create_a_new_account">Create Account</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_re_enter_password">Re Enter Password</string>
+    <string name="user_name">Name</string>
+</resources>
